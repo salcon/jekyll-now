@@ -3,4 +3,6 @@ layout: post
 title: BootStrap学习笔记一
 ---
 
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
 Get started with Bootstrap, the world’s most popular framework for building responsive, mobile-first sites, with BootstrapCDN and a template starter page.
