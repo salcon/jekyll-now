@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+一个正在努力学会写博客的老程序员！
 
-### More Information
+### 更多信息
 
-A place to include any other types of information that you'd like to include about yourself.
+没有更多信息了，后面补充吧！
 
-### Contact me
+### 联系我
 
-[email@domain.com](mailto:email@domain.com)
+暂无联系方式，后面补充吧！
